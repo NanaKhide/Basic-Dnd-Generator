@@ -14,3 +14,6 @@ random_quest = random.choice(quests)
 
 # Prints the random quest
 print(random_quest)
+
+# Prevents the terminal from closing too early... 
+input('Press Enter to exit')
